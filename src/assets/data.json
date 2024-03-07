@@ -1,0 +1,220 @@
+{
+  "papers": [
+    {
+      "id": 1,
+      "name": "Business Laws and Ethics",
+      "modules": [
+        {
+          "moduleNo": "01",
+          "moduleName": "Introduction to Law and Legal System in India",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to Law and Legal System in India",
+              "totalDuration": 200,
+              "watchedDuration": 190,
+              "type": "video",
+              "members": [
+                {
+                  "name": "suhail",
+                  "url": "https://rb.gy/rljakk"
+                },
+                {
+                  "name": "shan",
+                  "url": "https://rb.gy/rzpzqw"
+                }
+              ]
+            },
+            {
+              "topicNo": "02",
+              "topicName": "Indian Contracts Act, 1872",
+              "totalDuration": 120,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": [
+                {
+                  "name": "suhail",
+                  "url": "https://rb.gy/rljakk"
+                },
+                {
+                  "name": "shan",
+                  "url": "https://rb.gy/rzpzqw"
+                }
+              ]
+            },
+            {
+              "topicNo": "03",
+              "topicName": "Sale of Goods Act, 1930",
+              "totalDuration": 100,
+              "watchedDuration": 0,
+              "type": "video",
+              "members": [
+                {
+                  "name": "suhail",
+                  "url": "https://rb.gy/rljakk"
+                }
+              ]
+            },
+            {
+              "topicNo": "04",
+              "topicName": "Negotiable Instruments Act, 1881",
+              "totalDuration": 200,
+              "watchedDuration": 0,
+              "type": "video",
+              "members": []
+            },
+            {
+              "topicNo": "05",
+              "topicName": "Negotiable Instruments Act, 1881",
+              "totalDuration": 200,
+              "watchedDuration": 0,
+              "type": "exam",
+              "members": []
+            }
+          ]
+        },
+        {
+          "moduleNo": "02",
+          "moduleName": "Introduction to Law and Legal System in India",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to Law and Legal System in India",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            },
+            {
+              "topicNo": "02",
+              "topicName": "Indian Contracts Act, 1872",
+              "totalDuration": 200,
+              "watchedDuration":0,
+              "type": "video",
+              "members": []
+            },
+            {
+              "topicNo": "03",
+              "topicName": "Sale of Goods Act, 1930",
+              "totalDuration": 200,
+              "watchedDuration":0,
+              "type": "video",
+              "members": []
+            },
+            {
+              "topicNo": "04",
+              "topicName": "Negotiable Instruments Act, 1881",
+              "totalDuration": 200,
+              "watchedDuration":0,
+              "type": "video",
+              "members": []
+            },
+            {
+              "topicNo": "05",
+              "topicName": "Negotiable Instruments Act, 1881",
+              "totalDuration": 200,
+              "watchedDuration":0,
+              "type": "exam",
+              "members": []
+            }
+          ]
+        },
+        {
+          "moduleNo": "03",
+          "moduleName": "Introduction to Law Legal System in India",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to Law and Legal System in India",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Financial Accounting",
+      "modules": [
+        {
+          "moduleNo": "01",
+          "moduleName": "Introduction to System in India",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction and Legal System in India",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Business Mathematics and Logical Reasoning & Statistics",
+      "modules": [
+        {
+          "moduleNo": "01",
+          "moduleName": "Introduction to Law ",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to Law and Legal in India",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Business Economics",
+      "modules": [
+        {
+          "moduleNo": "01",
+          "moduleName": "Introduction to React Native Development",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to React Native Development",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Business and Commercial Knowledge",
+      "modules": [
+        {
+          "moduleNo": "01",
+          "moduleName": "Introduction ",
+          "data": [
+            {
+              "topicNo": "01",
+              "topicName": "Introduction to Law and Legal System in India",
+              "totalDuration": 200,
+              "watchedDuration": 100,
+              "type": "video",
+              "members": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
